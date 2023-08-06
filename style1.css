@@ -124,3 +124,20 @@ textarea {
   font-size: 24px;
   /* border: 2px solid #151515 ; */
 }
+
+.music{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.audio {
+  flex-basis: calc(33.33% - 10px);
+  margin: 5px;
+  padding-top: 20px;
+}
+
+.musicTitle {
+  display: flex;
+  align-items: center;
+}
