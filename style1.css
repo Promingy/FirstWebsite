@@ -1,0 +1,35 @@
+.mainHead {
+  background-color: #A63D40;
+  min-width: 0 auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.navMenu {
+  background-color: #A63D40;
+  font-size: 36px;
+}
+
+.container{
+  text-align: center;
+  border: 2px solid black;
+  width: auto;
+}
+
+
+body{
+  background-color: #E9B872;
+}
+
+.body {
+  background-color: #E9B872;
+}
+
+form {
+  /* background-color: #E9B872; */
+}
+
+.footer {
+  background-color: #6494AA;
+}
